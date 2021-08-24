@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\netcoreapp3.1\ProgramaFuncionarios.exe
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\netcoreapp3.1\ProgramaFuncionarios.deps.json
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\netcoreapp3.1\ProgramaFuncionarios.runtimeconfig.json
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\netcoreapp3.1\ProgramaFuncionarios.runtimeconfig.dev.json
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\netcoreapp3.1\ProgramaFuncionarios.dll
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\bin\Debug\netcoreapp3.1\ProgramaFuncionarios.pdb
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\netcoreapp3.1\ProgramaFuncionarios.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\netcoreapp3.1\ProgramaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\netcoreapp3.1\ProgramaFuncionarios.AssemblyInfo.cs
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\netcoreapp3.1\ProgramaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\netcoreapp3.1\ProgramaFuncionarios.dll
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\netcoreapp3.1\ProgramaFuncionarios.pdb
+C:\Users\mathe\source\repos-estudos.Net\ProgramaFuncionarios\ProgramaFuncionarios\obj\Debug\netcoreapp3.1\ProgramaFuncionarios.genruntimeconfig.cache
